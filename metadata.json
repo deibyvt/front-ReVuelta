@@ -1,0 +1,6 @@
+{
+  "name": "ReVuelta Circular Fashion",
+  "description": "Plataforma de moda circular para compra, venta y trueque de prendas sostenibles, seguimiento de envíos, puntos de fidelización y perfiles de comunidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
